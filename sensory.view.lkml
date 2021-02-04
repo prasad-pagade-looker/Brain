@@ -4,4 +4,6 @@ view: sensory {
 
   dimension: sensory_signals {}
 
+  dimension: sensory_signals_2 {}
+
  }
